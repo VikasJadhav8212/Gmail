@@ -5,7 +5,8 @@ print("Addition is : ",c)
 # Arithmetic operations
 d = a * b
 print("Multiplication is:",d)
-
+e = a - b
+print("Substraction is:",e)
 
 
 
